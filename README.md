@@ -1,0 +1,1 @@
+# Algo-Tradering-Equal-weight-S-P-500
